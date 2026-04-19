@@ -1,6 +1,8 @@
+<img width="2048" height="768" alt="44c3f555-4e06-47a7-98f7-371201e113e0" src="https://github.com/user-attachments/assets/a4bc20b5-dda5-4b50-ba89-7e01220e82c7" />
+
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hey%2C%20I'm%20Mahek%20Patel%20%F0%9F%91%8B;Math%20%40%20University%20of%20Waterloo;Building%20AI%20tools%20%26%20systems;Hackathon%20organizer%20%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hey%2C%20I'm%20Mahek%20Patel%20%F0%9F%91%8B;Math%20%40%20University%20of%20Waterloo;Building%20AI%20tools%20%26%20systems;Hackathon%20organizer%20%F0%9F%9A%80](https://readme-typing-svg.herokuapp.com?font=Handjet&weight=500&size=31&pause=1000&color=77A5FF&background=FF57DF00&center=true&vCenter=true&width=435&lines=hey+i'm+mahek+patel+%3A);SciML+%2B+CS+%2B+Stats+%40+University+of+Waterloo;building+software+%2B+ai+tools+%26+systems;hackathon+organizer+%3AP)" alt="Typing SVG" />
 </a>
 
 <p>
