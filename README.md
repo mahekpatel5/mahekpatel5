@@ -122,7 +122,6 @@ class MahekPatel:
 
 
 ## open to opportunities 🌍
-
 📍 Waterloo / Toronto, Ontario, Canada  
 
 💼 looking for:
@@ -132,9 +131,7 @@ class MahekPatel:
 
 
 ## let’s connect!! 💬
-
 I’m always down to collaborate or build something cool, so feel free to reach out anytime!
-
 <div align="center">
 
 <p>
@@ -142,11 +139,7 @@ I’m always down to collaborate or build something cool, so feel free to reach 
     <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-
 </div>
-<img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/13d93749-4261-4599-a995-f7b7f0d0efc8" />
-
 
 <!--
 **mahekpatel5/mahekpatel5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
