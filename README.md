@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-```python
+python
 class MahekPatel:
     def __init__(self):
         self.education = "University of Waterloo"
@@ -46,8 +46,6 @@ class MahekPatel:
 
 ---
 
-## 🔷 Hackathon / Leadership
-```md
 ## 🏆 Hackathon & Leadership
 ➤ Sponsorship Coordinator @ Hack the North (1200+ hackers, 6000+ ➤ sponsor interactions)
 ➤ Business Development @ Hack the 6ix
