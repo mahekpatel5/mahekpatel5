@@ -3,7 +3,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Handjet&weight=500&size=31&pause=1000&color=77A5FF&background=FF57DF00&center=true&vCenter=true&width=435&lines=hey+i'm+mahek+patel+%3A);SciML+%2B+CS+%2B+Stats+%40+University+of+Waterloo;building+software+%2B+ai+tools+%26+systems;hackathon+organizer+%3AP" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Handjet&weight=500&size=30&pause=1000&color=77A5FF&background=FF57DF00&center=true&vCenter=true&width=435&lines=hey%2C+i'm+mahek+patel+%3A);SciML+%2B+CS+%2B+Stats+%40+University+of+Waterloo;building+software+%2B+ai+tools+%26+systems;hackathon+organizer+%3AP" />
 </a>
 
 <p>
@@ -13,7 +13,7 @@
   <a href="mailto:mail@mahekpatel.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mahekp-codes&style=for-the-badge&color=6366F1"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=mahekp-codes&style=for-the-badge&color=6366F1"/> -->
 </p>
 </div>
 
@@ -21,16 +21,17 @@
 
 ## 🧑‍💻 About Me
 
-python
+```python
 class MahekPatel:
     def __init__(self):
         self.education = "University of Waterloo"
-        self.program = "Mathematics (Statistics + Scientific Computing & ML)"
-        self.location = "Milton / Waterloo, Ontario 🇨🇦"
+        self.program = "Mathematics (Stats + Applied Maths with Scientific Computing & ML)"
+        self.location = "Toronto / Waterloo, Ontario 🇨🇦"
+        self.internship = "Cloud Engineer @ Manulife"
         self.roles = [
             "Sponsorship Coordinator @ Hack the North",
             "Business Development Executive @ Hack the 6ix",
-            "Director of Marketing @ UW Mathematics Society",
+            "Web Designer @ Computer Science Club UW",
             "Sponsorship Director @ CUCAI 2026"
         ]
 
@@ -48,7 +49,7 @@ class MahekPatel:
         }
 
 ---
-
+```
 ## 🏆 Hackathon & Leadership
 ➤ Sponsorship Coordinator @ Hack the North (1200+ hackers, 6000+ ➤ sponsor interactions)
 ➤ Business Development @ Hack the 6ix
@@ -108,8 +109,6 @@ class MahekPatel:
 - Learning ML deeply (not just APIs)  
 - Automating real workflows  
 - Creating tools that people actually use  
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahekpatel5&theme=vitesse&hide_border=true)](https://git.io/streak-stats)
 
 
 ## 🌍 Open to Opportunities
