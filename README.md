@@ -17,9 +17,8 @@
 </p>
 </div>
 
----
 
-## 🧑‍💻 About Me
+## about me 🌻
 
 ```python
 class MahekPatel:
@@ -32,7 +31,7 @@ class MahekPatel:
             "Sponsorship Coordinator @ Hack the North",
             "Business Development Executive @ Hack the 6ix",
             "Web Designer @ Computer Science Club UW",
-            "Sponsorship Director @ CUCAI 2026"
+            "Sponsorship Director @ CUCAI"
         ]
 
     def interests(self):
@@ -48,20 +47,25 @@ class MahekPatel:
             "open_to": "Internships & collaborations"
         }
 
----
 ```
-## 🏆 Hackathon & Leadership
-➤ Sponsorship Coordinator @ Hack the North (1200+ hackers, 6000+ ➤ sponsor interactions)
-➤ Business Development @ Hack the 6ix
-➤ Sponsorship Director @ CUCAI 2026
-➤ Fullstack Tech Lead @ Tech+ UW
+## hackathons & leadership 🏆
+➤ Sponsorship Coordinator @ Hack the North (1200+ hackers, 6000+ sponsor interactions) <br>
+➤ Sponsorship Director @ CUCAI 2026 (400+ attendees, 19+ schools, 50+ paper submissions) <br>
+➤ Business Development @ Hack the 6ix <br>
+➤ Fullstack Tech Lead @ Tech+ UW s<br>
+➤ Hackathons Attended:
+  - Hackthe6ix 2025
+  - UofTHacks 2026
+  - GeeseHacks 2025
+  - SpurHacks 2025
 
 
-## 🛠️ Tech Stack
+## tech stack 🛠️
 
-### Languages & Core
+### languages & core
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -72,30 +76,36 @@ class MahekPatel:
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-### ML, Data & Backend
+### ML, data & backend
 <p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 
-### Developer Tools
+### developer tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 </p>
 
 
-## 🚀 Featured Projects
+## featured projects 🚀
 
-| Project | Description | Tech Stack |
+| project | description | tech stack |
 | :--- | :--- | :--- |
 | 🤖 Sunflow Automation | AI-powered workflow automation (50–70% efficiency gain). | Python, AWS, LLMs |
 | 💬 Loonion | Student-only dating app with verification + matching algorithm. | Flask, JS |
@@ -103,7 +113,7 @@ class MahekPatel:
 | 🎨 Social CRM Tool | Visual networking & relationship management tool. | Web |
 
 
-## 🧠 What I’m Focused On
+## what i’m focused on 🧠
 
 - Building real AI tools, not just demos  
 - Learning ML deeply (not just APIs)  
@@ -111,19 +121,19 @@ class MahekPatel:
 - Creating tools that people actually use  
 
 
-## 🌍 Open to Opportunities
+## open to opportunities 🌍
 
-📍 Waterloo / Milton, Ontario, Canada  
+📍 Waterloo / Toronto, Ontario, Canada  
 
-💼 Looking for:
-- Software Engineering Internships  
-- ML / AI Roles  
-- Backend / Systems roles
+💼 looking for:
+- software engineering internships  
+- ML / AI roles  
+- backend / fullstack / systems roles
 
 
-## 💬 Let’s Connect
+## let’s connect!! 💬
 
-I’m always down to collaborate or build something cool.
+I’m always down to collaborate or build something cool, so feel free to reach out anytime!
 
 <div align="center">
 
@@ -133,12 +143,9 @@ I’m always down to collaborate or build something cool.
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=90&section=footer"/>
 
 </div>
-
-
-
+<img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/13d93749-4261-4599-a995-f7b7f0d0efc8" />
 
 
 <!--
