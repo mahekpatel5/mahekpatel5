@@ -115,7 +115,7 @@ class MahekPatel:
 ## what i’m focused on 🧠
 
 - Building real AI tools, not just demos  
-- Learning ML deeply (not just APIs)  
+- Learning ML and neural network concepts and applications
 - Automating real workflows  
 - Creating tools that people actually use  
 
