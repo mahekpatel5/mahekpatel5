@@ -48,17 +48,6 @@ class MahekPatel:
         }
 
 ```
-## hackathons & leadership 🏆
-➤ Sponsorship Coordinator @ Hack the North (1200+ hackers, 6000+ sponsor interactions) <br>
-➤ Sponsorship Director @ CUCAI 2026 (400+ attendees, 19+ schools, 50+ paper submissions) <br>
-➤ Business Development @ Hack the 6ix <br>
-➤ Fullstack Tech Lead @ Tech+ UW <br>
-➤ Hackathons Attended:
-  - Hackthe6ix 2025
-  - UofTHacks 2026
-  - GeeseHacks 2025
-  - SpurHacks 2025
-
 
 ## tech stack 🛠️
 
@@ -112,6 +101,16 @@ class MahekPatel:
 | 🔌 Tesla API Automation | Integrated Tesla API + geospatial visualization. | Python |
 | 🎨 Social CRM Tool | Visual networking & relationship management tool. | Web |
 
+## hackathons & leadership 🏆
+➤ Sponsorship Coordinator @ Hack the North (1200+ hackers, 6000+ sponsor interactions) <br>
+➤ Sponsorship Director @ CUCAI 2026 (400+ attendees, 19+ schools, 50+ paper submissions) <br>
+➤ Business Development @ Hack the 6ix <br>
+➤ Fullstack Tech Lead @ Tech+ UW <br>
+➤ Hackathons Attended:
+  - Hackthe6ix 2025
+  - UofTHacks 2026
+  - GeeseHacks 2025
+  - SpurHacks 2025
 
 ## what i’m focused on 🧠
 
