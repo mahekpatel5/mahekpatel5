@@ -52,7 +52,7 @@ class MahekPatel:
 ➤ Sponsorship Coordinator @ Hack the North (1200+ hackers, 6000+ sponsor interactions) <br>
 ➤ Sponsorship Director @ CUCAI 2026 (400+ attendees, 19+ schools, 50+ paper submissions) <br>
 ➤ Business Development @ Hack the 6ix <br>
-➤ Fullstack Tech Lead @ Tech+ UW s<br>
+➤ Fullstack Tech Lead @ Tech+ UW <br>
 ➤ Hackathons Attended:
   - Hackthe6ix 2025
   - UofTHacks 2026
